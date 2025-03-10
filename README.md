@@ -1,6 +1,6 @@
 # Meu Portfólio de Análise de Dados
 
-Olá! Sou [Seu Nome], acadêmico de Engenharia Elétrica e aspirante a analista de dados. Aqui você encontrará alguns dos meus projetos iniciais em Python e análise de dados.
+Olá! Sou Marlos, acadêmico de Engenharia Elétrica e aspirante a analista de dados. Aqui você encontrará alguns dos meus projetos iniciais em Python e análise de dados.
 
 ## Projetos
 
