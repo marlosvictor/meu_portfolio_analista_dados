@@ -1,0 +1,10 @@
+Produto,Categoria,Mês,Vendas,Custo,Lucro,Região
+Caneta,Escritório,Janeiro,150,50,100,Norte
+Caneta,Escritório,Fevereiro,200,60,140,Norte
+Caneta,Escritório,Março,180,55,125,Sul
+Lápis,Escritório,Janeiro,100,30,70,Sul
+Lápis,Escritório,Fevereiro,120,35,85,Sul
+Lápis,Escritório,Março,90,25,65,Norte
+Caderno,Escritório,Janeiro,50,20,30,Norte
+Caderno,Escritório,Fevereiro,60,25,35,Sul
+Caderno,Escritório,Março,70,30,40,Norte
